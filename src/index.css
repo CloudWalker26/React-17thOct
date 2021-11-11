@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto";
+  margin: 0;
+}
+
+.movie-detail-container {
+  width: 50rem;
+  margin: 2rem;
+}
+
+.main-menu {
+  display: flex;
+  text-transform: uppercase;
+  gap: 3rem;
+}
+
+.main-menu > a {
+  color: white;
+  text-decoration: none;
+}
+
+.main-content {
+  margin: 2rem;
+}
